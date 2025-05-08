@@ -12,12 +12,8 @@ Build an interactive dashboard using Power Bi to identify the key drivers of emp
 Enable HR teams to optimize retention strategies by visualizing attrition patterns through a data-focused lens.
 
 ## ✅ Outcome
-- 16.1% attrition rate uncovered
-- Higher attrition among:
-  - Single employees (25.53%)
-  - Frequent business travelers (24.91%)
-  - Sales & Lab Technician roles
-- Dashboard includes filters and slicers for interactivity
+The analysis revealed key insights such as a 16.1% attrition rate and higher risk among frequent travelers and single employees. 
+The project empowered HR decision-makers to target specific segments with better retention policies.
 
 ---
 
