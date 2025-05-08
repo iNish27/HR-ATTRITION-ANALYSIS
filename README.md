@@ -1,2 +1,2 @@
 # HR-ATTRITION-ANALYSIS
-This dashboard helps HR teams and leadership visualize critical pain points and make data-driven decisions.
+A Power Bi Dashboard Project Analyzing employee attrition trends.
