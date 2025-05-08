@@ -33,7 +33,7 @@ Enable HR teams to optimize retention strategies by visualizing attrition patter
 |-----------|-------------|
 | `https://github.com/iNish27/HR-ATTRITION-ANALYSIS/blob/main/HR%20ATTRITION%20ANALYSIS%20DASHBOARD.pbix` | Final Power BI Dashboard |
 | `https://github.com/iNish27/HR-ATTRITION-ANALYSIS/blob/main/HR-ATTRITION%20DATASET.csv` | Sample employee data used for analysis |
-| `https://github.com/iNish27/HR-ATTRITION-ANALYSIS/tree/main` | This project overview |
+| `https://github.com/iNish27/HR-ATTRITION-ANALYSIS/blob/main/README.md` | This project overview |
 | `"C:\Users\Nishs\OneDrive\Pictures\Screenshots\HR Attrition Analysis Dashboard.png"` |Dashboard screenshot |
 
 ---
