@@ -6,7 +6,7 @@ This Power BI dashboard project analyzes employee attrition data to uncover tren
 ---
 
 ## 📌 Objective  
-Build an interactive dashboard using Excel to identify the key drivers of employee attrition across demographics, roles, and behavior indicators.
+Build an interactive dashboard using Power Bi to identify the key drivers of employee attrition across demographics, roles, and behavior indicators.
 
 ## 🎯 Purpose
 Enable HR teams to optimize retention strategies by visualizing attrition patterns through a data-focused lens.
